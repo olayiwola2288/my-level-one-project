@@ -10,14 +10,13 @@ body{
 header{
     display: flex;
     justify-content: space-between;
-    /* flex-direction: row; */
-    /* position: absolute; */
+    padding: 20px 50px;
+    background-color: #F8F9FA;
+    position: sticky;
     top: 0;
-    left: 0;
-    /* width: 435px; */
-    padding: 50px;
-    /* height: 50px; */
-    /* padding: 40px; */
+    z-index: 1000;
+
+
 }
 #f1sec{
     background-color:  #FFF9F2;  
@@ -201,8 +200,43 @@ header{
 #sec9{
     background-color: #6D1830;
 }
-@media screen and (min-width:465px) {
-    #f1sec{
-        display: flex;
-    }
+
+#p2s2{
+    /* margin-left: 50px; */
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 150px;
 }
+#p2s3{
+    background-color: #14394C;
+    height: 300px;
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    border-radius: 10px;
+    padding: 20px 50px;
+}
+#p2s3img{
+    position: absolute;
+    top: -90px;
+    left: 100px;
+}
+#p2s3div3{
+    color: #ffffff;
+    padding: 50px;
+    margin-left: 50%;
+} 
+#p2s4{
+margin: 0 20%;
+}
+#p2s5{
+   display: flex; 
+   gap: 100px;
+   background-color: #14394C;
+   color: #fff;
+}
+#p2s5div2{
+    margin: 70px 300px;
+} 
