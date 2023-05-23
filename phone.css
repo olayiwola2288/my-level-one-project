@@ -36,4 +36,28 @@
     #p2s5div2{
         margin-left: 20px;
     }
+    /* contant us */
+
+    #img{
+        width: 100%;
+    }
+    #form-img{
+        display: none;
+    }
+    #form{
+        width: 100px;
+    }
+    #form input{
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+    .card{
+        margin-top: 20px;
+    }
+    #get_started{
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
 }

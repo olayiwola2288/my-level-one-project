@@ -240,3 +240,27 @@ margin: 0 20%;
 #p2s5div2{
     margin: 70px 300px;
 } 
+/* contant us */
+
+#img{
+    height: 150px;
+}
+#form-img{
+    flex-basis: 30%;
+}
+#form{
+    flex-basis: 70%;
+    padding: 50px;
+}
+.card{
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+}
+#section5{
+background-color: #14394C;
+}
+#section6{
+    background-color: #6D1830;
+}
