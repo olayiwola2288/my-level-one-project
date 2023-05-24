@@ -242,16 +242,10 @@ margin: 0 20%;
 } 
 /* contant us */
 
-#img{
-    height: 150px;
-}
-#form-img{
-    flex-basis: 30%;
-}
-#form{
+/* #form{
     flex-basis: 70%;
     padding: 50px;
-}
+} */
 .card{
     border: 1px solid black;
     border-radius: 10px;

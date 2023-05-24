@@ -37,20 +37,8 @@
         margin-left: 20px;
     }
     /* contant us */
-
-    #img{
-        width: 100%;
-    }
     #form-img{
         display: none;
-    }
-    #form{
-        width: 100px;
-    }
-    #form input{
-        width: 100%;
-        padding: 0;
-        margin: 0;
     }
     .card{
         margin-top: 20px;
@@ -60,4 +48,20 @@
         align-items: center;
         justify-content: center;
     }
+    #big{
+        display: none;
+    }
+    #form_section{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #section6{
+        padding: 50px 20px ;
+
+    }
+    #section5{
+        padding-bottom: 50px;
+    }
+
 }
