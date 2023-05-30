@@ -63,5 +63,11 @@
     #section5{
         padding-bottom: 50px;
     }
+    #download_card div{
+        margin-top: 20px;
+    }
+    #download_card{
+        padding: 0;
+    }
 
 }
