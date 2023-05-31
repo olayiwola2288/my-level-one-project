@@ -67,7 +67,7 @@
         margin-top: 20px;
     }
     #download_card{
-        padding: 0;
+        padding: 10px 10px !important;
     }
 
 }
