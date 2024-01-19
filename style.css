@@ -259,7 +259,7 @@ background-color: #14394C;
     background-color: #6D1830;
 }
 #blog1section1{
-    border: #4A505C solid  1px;
+    border: rgba(0, 0, 0, 0.5) solid  1px;
     border-radius: 10px;
     padding: 10px 1% 10px 3%;
     gap: 120px;
@@ -276,3 +276,12 @@ color: rgba(0, 0, 0, 0.5);
     border: none;
     margin-bottom: 10px;
 }
+.card{
+    border: 1px solid black transparent !important;
+    border-radius: 10px;
+    text-align: center;
+    align-items: center;
+    width: 22rem;
+    padding: 2rem 0;
+}
+
