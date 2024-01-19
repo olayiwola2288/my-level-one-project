@@ -69,5 +69,15 @@
     #download_card{
         padding: 10px 10px !important;
     }
+    .buttonAnc{
+        display: none;
+        margin: 0 auto !important;
+        text-align: center;
+        align-items: center;
+        
+    }
+    #sectionButton{
+        align-items: center;
+    }
 
 }
