@@ -258,3 +258,21 @@ background-color: #14394C;
 #section6{
     background-color: #6D1830;
 }
+#blog1section1{
+    border: #4A505C solid  1px;
+    border-radius: 10px;
+    padding: 10px 1% 10px 3%;
+    gap: 120px;
+}
+#blog1section1 img{
+    border-radius: 5px;
+}
+#blog1section1 p{
+color: rgba(0, 0, 0, 0.5);
+}
+#blog1section1 button{
+    color: #6D1830;
+    background-color: transparent;
+    border: none;
+    margin-bottom: 10px;
+}
