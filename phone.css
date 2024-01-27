@@ -79,5 +79,8 @@
     #sectionButton{
         align-items: center;
     }
+    #house{
+        height: 250px !important;
+    }
 
 }
